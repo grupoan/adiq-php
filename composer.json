@@ -1,7 +1,6 @@
 {
     "name": "grupoan/adiq-php",
     "description": "Adiq PHP Library",
-    "type": "library",
     "keywords": [
       "adiq",
       "gateway",
