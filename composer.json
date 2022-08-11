@@ -29,5 +29,7 @@
       "psr-4": {
         "Adiq\\Test\\": "tests/unit"
       }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
   }
